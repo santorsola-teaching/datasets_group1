@@ -1,4 +1,4 @@
-# Course Datasets for Genomic Data Analysis with nf-core (A.Y. 2026-27)
+# Course datasets for genomic data analysis with nf-core (A.Y. 2026-27)
 
 This repository contains example datasets assigned to **Working Group 1** for the practical sessions of the **LABOS 2026-27** class ("Laboratory of advanced bioinformatics for omics sciences").
 
